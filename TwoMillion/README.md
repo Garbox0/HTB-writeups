@@ -1,7 +1,6 @@
 # Hack The Box: TwoMillion — Walkthrough en español
 
 **Autor:** Garbox0  
-**Plataforma:** Hack The Box  
 **Dificultad:** Easy  
 **Sistema:** Linux  
 **Estado:** Retirada
