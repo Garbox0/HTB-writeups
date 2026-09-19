@@ -9,6 +9,7 @@ El objetivo no es recopilar comandos aislados, sino documentar el razonamiento d
 | Máquina | Dificultad | Sistema | Técnicas principales | Writeup |
 |---|---:|---|---|---|
 | TwoMillion | Easy | Linux | API, control de acceso, command injection, OverlayFS | [Leer en español](./TwoMillion/) |
+| Support | Easy | Windows / Active Directory | SMB, reversing .NET, LDAP, RBCD, Kerberos | [Leer en español](./Support/) |
 
 ## Criterios de publicación
 
@@ -33,4 +34,3 @@ Este material tiene fines educativos. No debe utilizarse contra sistemas sin aut
 ---
 
 Perfil de Hack The Box: **Garbox0**
-
