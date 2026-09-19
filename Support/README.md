@@ -5,8 +5,6 @@
 - **Sistema:** Windows / Active Directory
 - **Estado:** Retirada
 
-> Todas las pruebas se realizaron sobre una instancia autorizada de Hack The Box. Las flags, contraseñas, tickets Kerberos, claves y direcciones temporales fueron redactadas.
-
 ## Resumen
 
 Support presenta una cadena de ataque centrada en Active Directory:

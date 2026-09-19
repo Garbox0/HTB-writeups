@@ -5,8 +5,6 @@
 **Sistema:** Linux  
 **Estado:** Retirada
 
-> Todas las pruebas se realizaron sobre una instancia autorizada de Hack The Box. Las flags, cookies, credenciales, direcciones temporales y datos de registro fueron redactados.
-
 ## Resumen
 
 TwoMillion recrea una versión antigua de la plataforma Hack The Box. La cadena de ataque consiste en:
